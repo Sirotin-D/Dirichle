@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+C:\Users\Дмитрий\source\repos\Dirichle_LAB_TopRelaxation\Dirichle_LAB_TopRelaxation\MyForm.h(706): warning C4715: DirichleLABTopRelaxation::MyForm::Mu: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Dirichle_LAB_TopRelaxation.vcxproj -> C:\Users\Дмитрий\source\repos\Dirichle_LAB_TopRelaxation\x64\Debug\Dirichle_LAB_TopRelaxation.exe

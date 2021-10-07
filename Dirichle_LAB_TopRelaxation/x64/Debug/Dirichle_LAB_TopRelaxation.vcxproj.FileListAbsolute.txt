@@ -1,0 +1,3 @@
+C:\Users\Дмитрий\source\repos\Dirichle_LAB_TopRelaxation\Dirichle_LAB_TopRelaxation\x64\Debug\Dirichle_LAB_TopRelaxation.vcxproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\Dirichle_LAB_TopRelaxation\Dirichle_LAB_TopRelaxation\x64\Debug\DirichleLABTopRelaxation.MyForm.resources
+C:\Users\Дмитрий\source\repos\Dirichle_LAB_TopRelaxation\Dirichle_LAB_TopRelaxation\x64\Debug\Dirichle_LAB_TopRelaxation.vcxproj.GenerateResource.cache

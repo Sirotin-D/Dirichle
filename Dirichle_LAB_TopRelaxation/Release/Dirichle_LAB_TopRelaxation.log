@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+C:\Users\Дмитрий\source\repos\Dirichle_LAB_TopRelaxation\Dirichle_LAB_TopRelaxation\MyForm.h(765,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дмитрий\source\repos\Dirichle_LAB_TopRelaxation\Dirichle_LAB_TopRelaxation\MyForm.h(769,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дмитрий\source\repos\Dirichle_LAB_TopRelaxation\Dirichle_LAB_TopRelaxation\MyForm.h(979,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дмитрий\source\repos\Dirichle_LAB_TopRelaxation\Dirichle_LAB_TopRelaxation\MyForm.h(983,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дмитрий\source\repos\Dirichle_LAB_TopRelaxation\Dirichle_LAB_TopRelaxation\MyForm.h(1098,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дмитрий\source\repos\Dirichle_LAB_TopRelaxation\Dirichle_LAB_TopRelaxation\MyForm.h(1102,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дмитрий\source\repos\Dirichle_LAB_TopRelaxation\Dirichle_LAB_TopRelaxation\MyForm.h(706): warning C4715: DirichleLABTopRelaxation::MyForm::Mu: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Dirichle_LAB_TopRelaxation.vcxproj -> C:\Users\Дмитрий\source\repos\Dirichle_LAB_TopRelaxation\Release\Dirichle_LAB_TopRelaxation.exe
